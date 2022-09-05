@@ -1,6 +1,6 @@
 # Javascript - Warm up
 
-This was the first JavaScript project I completed at Holberton. Tasks involved
+This was the first JavaScript project I completed at ALX SE Program. Tasks involved
 writing various introductory-level JavaScript scripts on Node.js.
 
 ## Tests :heavy_check_mark:
